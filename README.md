@@ -12,6 +12,12 @@ All downloadable documents related to the AIMEC Token and AIMEMECHAIN Project ar
 - ⚠️ [AIMEC Security Statement for GoPlusLabs](https://github.com/aimemechain/DOCUMENTS/blob/main/AIMEC_Security_Statement-for-GoPlus_Security.pdf)  
   Special clarification for GoPlusLabs addressing false 'hidden owner' and whitelist warnings.
 - ✅ [AIMEC Token Security Statement](https://github.com/aimemechain/DOCUMENTS/blob/main/AIMEC_Token_Security_Statement.pdf)
+- ### 🔒 AIMEC Liquidity Lock Proof (Downloadable PDF)
+
+This document contains official Pinksale links and verified lock records for AIMEC's liquidity and token locks.
+
+📄 [Download AIMEC_Liquidity_Lock_Records.pdf](https://github.com/aimemechain/DOCUMENTS/raw/main/AIMEC_Liquidity_Lock_Records.pdf)
+
 - 🔐 [AIMEC Token Lock & Unlock Calendar](https://github.com/aimemechain/DOCUMENTS/blob/main/AIMEC_Lock_Unlock_Calendar.pdf)
 - 📜 [AIMEC Token Proof of Lock](https://github.com/aimemechain/DOCUMENTS/blob/main/AIMEC_TOKEN_PROOF_OF_LOCK.pdf)
 
