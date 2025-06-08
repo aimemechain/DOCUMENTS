@@ -25,6 +25,22 @@ This document contains official Pinksale links and verified lock records for AIM
 - 🔗 **Proof of Safety Contract**: [0x99bF907cCF9263Cc9fA56bC1c9b731A4Bd51F277](https://bscscan.com/address/0x99bF907cCF9263Cc9fA56bC1c9b731A4Bd51F277#code)  
   📄 [Download AIMEC_ProofOfSafety.pdf](https://github.com/aimemechain/DOCUMENTS/raw/main/AIMEC_ProofOfSafety.pdf)
 
+
+-🔒 **Proof of Safety and Token Whitelist Status**
+   The contract contains a legacy `isWhitelisted(address)` function for backward compatibility. However, it is currently inactive.
+
+📍 **Verification:**
+You can confirm this on BscScan's [Read Contract tab](https://bscscan.com/address/0x073d2912d883351fc200fc539b04520832f6d47d#readContract) by inputting the address:0x0000000000000000000000000000000000000000
+
+💡 The response will be:
+  
+✅ This proves:
+- **No wallet is currently whitelisted**
+- **Ownership is renounced**
+- **Whitelist enforcement is permanently disabled**
+- **📄 Download AIMEC_ProofOfSafety.pdf**
+  📄 [Download AIMEC_ProofOfSafety.pdf](https://github.com/aimemechain/DOCUMENTS/raw/main/AIMEC_ProofOfSafety.pdf)
+
 ## 💰 Tokenomics & Planning
 
 - 📊 [Tokenomics & Vesting Plan](https://github.com/aimemechain/DOCUMENTS/blob/main/AIMEC_Tokenomics_Vesting_Plan.pdf)
